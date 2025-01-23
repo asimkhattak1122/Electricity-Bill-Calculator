@@ -1,7 +1,8 @@
 # Electricity-Bill-Calculator
 A simple C++ program to calculate electricity bills based on units consumed.
 
-## Project Overview: This project calculates the electricity bill based on the number of units consumed. The calculation follows a tiered pricing structure, where the rate per unit increases with the consumption. 
+## Project Overview: 
+This project calculates the electricity bill based on the number of units consumed. The calculation follows a tiered pricing structure, where the rate per unit increases with the consumption. 
 
 ## Features: 
 - Tiered pricing for electricity usage.
